@@ -1,4 +1,4 @@
-package Lesson3.ClassWork3;
+package Lesson3.ClassWork3.cl3;
 
 import java.util.ArrayList;
 
