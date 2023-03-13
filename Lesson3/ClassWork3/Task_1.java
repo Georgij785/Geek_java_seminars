@@ -1,7 +1,7 @@
-package Lesson3.ClassWork3.cl3;
+package Lesson3.ClassWork3;
 
 import java.util.ArrayList;
-
+//123
 public class Task_1 {
     public static void main(String[] args) {
         // Заполнить список десятью случайными числами. 
