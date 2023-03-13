@@ -1,5 +1,5 @@
-package Lesson3.ClassWork3.Homework3;
-
+package Lesson3.Homework3;
+//123
 import java.util.ArrayList;
 import java.util.Arrays;
 
